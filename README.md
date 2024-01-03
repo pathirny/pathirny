@@ -1,5 +1,7 @@
 ## Hi there, my names Patryk👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=I'm+a+Full-Stack+Developer!;I'm+a+problem+solver!;I'm+constantly+learning!)](https://git.io/typing-svg)
+
 <!--
 **pathirny/pathirny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div classname="stats">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pathirny&show_icons=true&theme=transparent" alt="Github stats">
 </div>
