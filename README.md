@@ -1,4 +1,4 @@
-Hi there, my names Patryk👋
+## Hi there, my names Patryk👋
 
 <!--
 **pathirny/pathirny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
