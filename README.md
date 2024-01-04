@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="vscode logo"  />
 </div>
 
-###
+<div align="center">
 
 ### ✍️ Random Dev Quote
 
@@ -61,9 +61,4 @@
 ### 😂 Random Dev Meme
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=pathirny&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
