@@ -3,6 +3,7 @@
 ###
 
 <p align="center">I'm an former recruiter turned software engineer.<br>Recently graduating from a 16-week intensive boot camp at the School of Code.</p>
+<p align="center"> I'm currently learning Python and Web Sockets while working on personal projects</p>
 
 ###
 
